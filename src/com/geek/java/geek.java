@@ -6,16 +6,21 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class geek implements ActionListener{
+    @Override
+    public void actionPerformed(ActionEvent e) {
+
+    }
+
+
+
+
     private static JFrame frame = new JFrame("简单的GUI");
     private static JLabel jLabel = new JLabel("按钮单击次数");
     private static JButton jButton = new JButton("click me");
     private static JPanel panel = new JPanel();
     private static JLabel jLabe = new JLabel("My GUI Program");
 
-    @Override
-    public void actionPerformed(ActionEvent e) {
 
-    }
 
     public static void main(String[] args) {
 

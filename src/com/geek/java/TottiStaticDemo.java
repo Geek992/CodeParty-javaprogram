@@ -8,7 +8,9 @@ public class TottiStaticDemo {
        }
        return demo;
   }
-  private TottiStaticDemo(){}
+  private TottiStaticDemo(){
+
+  }
 
   public void output(){
       System.out.println("Create Instance");
