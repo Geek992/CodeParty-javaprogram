@@ -1,2 +1,2 @@
 # CodeParty-javaprogram
-这是CodeParty订阅号中的项目代码
+这是CodeParty订阅号中的java项目代码
